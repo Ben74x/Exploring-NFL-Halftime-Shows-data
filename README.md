@@ -8,3 +8,14 @@ In this notebook, we are going to find out how some of the elements of this show
     <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 </ul>
 <p> The dataset we will use was scraped and polished from Wikipedia. It is made up of three CSV files, one with <a href="https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions">game data</a>, one with <a href="https://en.wikipedia.org/wiki/Super_Bowl_television_ratings">TV data</a>, and one with <a href="https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows">halftime musician data</a> for all 52 super Bowls through 2018.
+    
+    
+    
+# Installation
+
+
+### Download the data
+<ul>
+<li>Clone this repo to your computer</li>
+<li>Get into the folder using <code>cd Exploring-NFL-Halftime-Shows-data</code></li>
+</ul>
